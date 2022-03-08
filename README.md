@@ -1,22 +1,13 @@
-# 0x02. Shell, I/O Redirections and Filters
+#alx-Holberton School System Engineering & Devops
 
 ## About
 
-<hr>
+This repository contains the projects done daily using the Holberton curriculum at the alx cohort 5 program.
 
-### Sell, I/O Redirection
+## Table of contents
 
-> Redirect standard output file
-> Get standard input from a file instead of a keyboard
-> Send output from one program to the input of another program
+| Directories                              | About                                                     |
+| ---------------------------------------- | --------------------------------------------------------- |
+| [0x00-shell_basics](./0x00-shell_basics) | Working with the shell using - tested on Ubuntu 20.04 LTS |
 
-### Special Characters
-
-> Manipulate white spaces, single and double quotes, backslash, comment, pipe command seperator
-
-### Other Man Pages
-
-> Display a line text
-> Concatenate files and print on the standard output
-> Reverse a string
-> Remove sections from each line of files
+---
